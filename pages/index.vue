@@ -5,8 +5,8 @@
 
 <script>
 import { mapGetters } from 'vuex'
-import Login from '~/pages/Login'
-import Landing from '~/pages/Landing'
+import Login from './Login'
+import Landing from './Landing'
 export default {
   components: {
     Login,
